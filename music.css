@@ -1,0 +1,51 @@
+nav {
+    background-color: turquoise; 
+    padding: 10px; 
+  }
+
+  ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  li {
+    float: left; 
+  }
+
+  li a {
+    display: block;
+    color: white; 
+    text-align: center;
+    padding: 14px 16px; 
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: black; 
+  }
+section{
+  padding: 300px;
+  background-image: url('image.jpg/turquoise.jpg.avif');
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+section p{
+  padding: 0px;
+  font-size: x-large;
+  text-align: justify;
+  color: white;
+}
+section h2{
+  padding: 0px;
+  font-size: x-large;
+  text-align: justify;
+  color: white;
+}
+img{
+  width: 250px;
+  height: 300px;
+  
+}
+
